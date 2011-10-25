@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'multi_json', '~> 1.0'
   gem.add_dependency 'simple_oauth', '~> 0.1'
   gem.add_dependency 'twitter-text', '~> 1.4'
+  gem.add_dependancy 'hashie', '1.2.0'
   gem.add_development_dependency 'json'
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rdiscount'
